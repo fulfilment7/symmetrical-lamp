@@ -1,0 +1,17 @@
+ .justity- between {
+justify-content: space-between;
+ }
+.item center{
+    align-items: center;
+}
+.back{
+    background-color: antiquewhite;
+    margin: 10px;
+    background-image: none;
+background-color:rgb(245,245,245) ;
+}
+.h2 {
+background-color:rgb(253,185,21) ;
+text-align: justify;
+}
+
